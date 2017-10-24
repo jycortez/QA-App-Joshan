@@ -1,6 +1,6 @@
 ﻿Imports System.Data.SqlClient
 
-Public Class Welcome
+Public Class welcome
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
     End Sub
